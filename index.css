@@ -1,0 +1,16 @@
+
+#child1{
+
+    
+    color: green;
+}
+
+#child2{
+    color: blue;
+}
+
+
+
+#child1 #heading{
+    color: yellow;
+}
